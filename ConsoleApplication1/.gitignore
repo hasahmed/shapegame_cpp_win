@@ -1,0 +1,13 @@
+*.o
+*.swp
+*.swo
+main.dSYM/*
+Session.vim
+main
+*.code-workspace
+.DS_Store
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+dist/
+*.test
